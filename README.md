@@ -26,8 +26,11 @@ To use KGradientPanel in the application import the KGradientPanel in the librar
 
 # Setup steps to run this game.
 Step 1:- Download this repository code and import into Netbeans IDE.
+
 Step 2:- Add the dependencies/libraries such as we have additionally use KGradientPanel. Firstly go the Library section present in CardGame project then click on the library folder and then on the library and there is a menu named Add JAR file/ Folder then select the path of KGradientPanel and import it.
+
 Step 3:- The src folder contains the main java files named as HomePage.java and CardGame.java.
+
 Step 4:- Just click on the Run project button or press F6 button to run this game.
 
 # How to play the Game
